@@ -1,0 +1,93 @@
+
+				
+				
+				body {
+					font-size: 30px;
+					text-align: center;
+					position: relative;
+				}			
+				#ugh {
+					
+					overflow: hidden;
+					height: 70px;
+					
+					background-color: rgb(153, 214, 255);
+					
+					z-index: 1;
+				}
+				#tilt {
+					background-color: rgb(153, 214, 255);
+				 position: absolute;
+					left: 600px;
+					z-index: 2;
+					top: -39px;
+				}
+
+				#jjj {
+				color: blue;
+				}
+				#ello {
+					color: red;
+				}
+			
+			 
+				
+
+			
+			body {
+				background-color: rgb(200,200,255);
+				font-family: sans-serif;
+			}
+			#ears {
+				color: green;
+				
+			}
+			
+
+			p {
+				color: rgb(0, 0, 0);
+
+			}
+			.list {
+				color:rgb(251, 255, 0);
+				line-height: 50px;
+				
+				font-size: 23px;
+
+			}
+			li {
+				text-align: left;
+			}
+			#listus {
+				background: rgba(86, 112, 84, 0.63);
+				width: 300px;
+			}
+			#ok {
+			position: fixed;
+			color: rgb(153, 214, 255);
+			background-color: rgb(153, 214, 255);
+			top: 600px;
+			
+			}
+
+
+#button {
+	
+}
+#info {
+	text-align: left;
+	margin-left: 450px;
+	background: rgb(109, 109, 109, 0.233);
+	width: 450px;
+	overflow: auto;
+}
+#listoo{
+	color:blue;
+	background-color: rgba(28, 235, 250, 0.308);
+	width: 300px;
+	padding: 30px;
+	margin-left: 990px;
+}
+#blaaa {
+	text-align: center;
+}
